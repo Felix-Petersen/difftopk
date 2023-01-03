@@ -1,6 +1,6 @@
 # Differentiable Top-k Classification Learning
 
-![difftopk_logo](difftopk_logo.png)
+![difftopk_logo](https://github.com/Felix-Petersen/difftopk/raw/main/difftopk_logo.png)
 
 Official implementation for our ICML 2022 Paper "Differentiable Top-k Classification Learning".
 
