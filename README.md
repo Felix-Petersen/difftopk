@@ -57,7 +57,7 @@ The `difftopk` library provides of differentiable sorting and ranking methods as
 
 * Variants of Differentiable Sorting Networks
   * `bitonic` Bitonic Differentiable Sorting Networks (sparse)
-  * `bitonic_sort__non_sparse` Bitonic Differentiable Sorting Networks
+  * `bitonic__non_sparse` Bitonic Differentiable Sorting Networks
   * `splitter_selection` Differentiable Splitter Selection Networks (sparse)
   * `odd_even` Odd-Even Differentiable Sorting Networks
 * `neuralsort` NeuralSort
