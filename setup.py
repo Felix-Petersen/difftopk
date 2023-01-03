@@ -7,6 +7,7 @@ setuptools.setup(
     name='difftopk',
     version='0.2.0',
     author='Felix Petersen',
+    author_email='ads0600@felix-petersen.de',
     description='Differentiable Sorting, Ranking, and Top-k.',
     long_description=long_description,
     long_description_content_type='text/markdown',
